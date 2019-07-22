@@ -45,7 +45,8 @@
   "dependencies": {
     "broccoli-merge-trees": "^0.2.1",
     "broccoli-static-compiler": "^0.2.1",
-    "broccoli-unwatched-tree": "^0.1.1"
+    "broccoli-unwatched-tree": "^0.1.1",
+    "broccoli-funnel": "^2.0.2"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
